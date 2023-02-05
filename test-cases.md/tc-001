@@ -1,0 +1,10 @@
+# **[TC-001] - Test if the logo redirects the user to the main page**
+
+### **Description**
+
+Clicking on the logo will redirect the user to the main page.
+
+### **Types of testing:**
+
+- Functional testing,
+- Positive testing.
