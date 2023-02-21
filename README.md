@@ -13,7 +13,7 @@ I decided to test it because it's the page of one of my friend and I wanted to h
 The initial plan for this testing was to explore the website and then create the test cases based on this exploratory. The coverage
 All the test cases created are listed below.
 
-| ** TC Number**                                                                                                          | **Test case**                                                                                                                                                            |
+| **TC Number**                                                                                                          | **Test case**                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 🔍 [TC-001](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-001.md) | Test if the logo redirects the user to the main page                                                                                                                     |
 | 🔍 [TC-002](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-002.md) | Check if clicking on "Despre ONG" from the menu opens                                                                                                                    |
