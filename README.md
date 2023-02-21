@@ -13,9 +13,9 @@ I decided to test it because it's the page of one of my friend and I wanted to h
 
 
 
-| ###** TC Number** |  ###**Test case**                                      |
+|** TC Number** | **Test case**                                      |
 |----------------|-------------------------------------------------------|
-| [TC-001]       | Test if the logo redirects the user to the main page  |
+| [TC-001] (https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-001.md)      | Test if the logo redirects the user to the main page  |
 | [TC-002]       | Check if clicking on "Despre ONG" from the menu opens |
 | [TC-003]       | Check if the text is properly alligned on "Despre ONG" page |
 | [TC-004]       | Check if the image from "Despre ONG" is properly alligned |
