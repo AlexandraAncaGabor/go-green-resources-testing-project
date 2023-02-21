@@ -46,7 +46,13 @@ I decided to test it because it's the page of one of my friend and I wanted to h
 | [TC-002]       | Check if clicking on "Despre ONG" from the menu opens |
 | [TC-003]       | Check if the text is properly alligned on "Despre ONG" page |
 | [TC-004]       | Check if the image from "Despre ONG" is properly alligned |
-| [TC-005]      | Check the functionality of "Hai sa vorbim" link ("Despre ONG" page) |
-| [TC-006]      | Check that the menu properly expands when hovering |
-| [TC-007]     | Check the functionality of "Structura ONG" button ("Despre ONG" section) |
-| [TC-008]    | Check the functionality of "Voluntariat" button  |
+| [TC-005]       | Check the functionality of "Hai sa vorbim" link ("Despre ONG" page) |
+| [TC-006]       | Check that the menu properly expands when hovering |
+| [TC-007]       | Check the functionality of "Structura ONG" button ("Despre ONG" section) |
+| [TC-008]       | Check the functionality of "Voluntariat" button  |
+| [TC-009]       | Check that the document from "Voluntariat" page can be downloaded |
+| [TC-010]       | Check the functionality of "Sponsorizare" button from the menu |
+| [TC-011]       | Check that the document "Sponsorizare" can be downloaded |
+| [TC-012]       | Check that when clicking on "OPINII PE MARGINEA UNOR SUBIECTE" from the menu properly opens|
+| [TC-013]      | Check that when clicking on "Criza energetica versus cea a metalelor" ("OPINII PE MARGINEA UNOR SUBIECTE" section" from the menu properly redirects the user to the page |
+
