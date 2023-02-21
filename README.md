@@ -13,7 +13,7 @@ I decided to test it because it's the page of one of my friend and I wanted to h
 
 
 
-| ## **Number** |  ## **Test case**                                      |
+| ###** TC Number** |  ###**Test case**                                      |
 |----------------|-------------------------------------------------------|
 | [TC-001]       | Test if the logo redirects the user to the main page  |
 | [TC-002]       | Check if clicking on "Despre ONG" from the menu opens |
