@@ -11,13 +11,14 @@ Go green resources is a web page that presents the problems that Maramures count
 I decided to test it because it's the page of one of my friend and I wanted to help her find the issues and help me too to practice more. Also, I was always concerned about Maramures environmental issues, because there is were I live. 
 
 
-
+# **Test cases**
+The testing consisted in exploring the web site and covering as much as possible. All the test cases created are listed below. 
 
 |** TC Number** | **Test case**                                      |
 |----------------|-------------------------------------------------------|
 | 🔍 [TC-001](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-001.md)      | Test if the logo redirects the user to the main page  |
 | 🔍 [TC-002](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-002.md)       | Check if clicking on "Despre ONG" from the menu opens |
-| 🔍[TC-003](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-003.md)       | Check if the text is properly alligned on "Despre ONG" page |
+| 🔍 [TC-003](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-003.md)       | Check if the text is properly alligned on "Despre ONG" page |
 | 🔍 [TC-004](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-004.md)       | Check if the image from "Despre ONG" is properly alligned |
 | 🔍 [TC-005](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-005.md)       | Check the functionality of "Hai sa vorbim" link ("Despre ONG" page) |
 | 🔍 [TC-006](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-006.md)       | Check that the menu properly expands when hovering |
@@ -109,3 +110,5 @@ I decided to test it because it's the page of one of my friend and I wanted to h
 | 🔍 [TC-092](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-092.md) | Check that the "Articole publicate" button from the footer is working properly  |
 | 🔍 [TC-093](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-093.md) | Check that the "Proiecte" button from the footer is working properly |
 | 🔍 [TC-094](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-094.md) | Check that the "Contact" button from the footer is working properly |
+
+
