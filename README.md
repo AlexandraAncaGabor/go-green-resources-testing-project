@@ -40,6 +40,6 @@ I decided to test it because it's the page of one of my friend and I wanted to h
 [TC-027] - Check that the page "Tratarea cu var " opens if it is selected from the menu
 [TC-028] - Check that the text from "Tratarea cu var " page is properly alligned
 
-|[TC-001]                                          | Test if the logo redirects the user to the main page      |
-| Go to the menu and select "OPINII PE MARGINEA UNOR SUBIECTE" | The page is selected |
+|[TC-001] | Test if the logo redirects the user to the main page      |
+|[TC-002] | - Check if clicking on "Despre ONG" from the menu opens |
 
