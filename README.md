@@ -8,7 +8,7 @@ The website tested is: **https://gogreenresources.ro/**
 Go green resources is a web page that presents the problems that Maramures county is facing at the moment. It is a non-guvernamental site were the owners of this are describing the environmental issues of Maramures county. Also, the website offers the opportunity to be a sponsor or a volunteer through a contract. 
 
 
-I decided to test it because it's the page of one of my friend and I wanted to help her find the issues and help me too to practice more. Also, I was always concerned about Maramures environmental issues, because there is were I live. 
+I decided to test it because it's the page of one of my friend and I wanted to help her find the issues and considered it a good practice. Also, I was always concerned about Maramures environmental issues, because there is were I live. 
 
 
 # **Test cases**
