@@ -40,7 +40,7 @@ I decided to test it because it's the page of one of my friend and I wanted to h
 [TC-027] - Check that the page "Tratarea cu var " opens if it is selected from the menu
 [TC-028] - Check that the text from "Tratarea cu var " page is properly alligned
 
-| ##**Number** | ## *Test case**                                      |
+| **Number** |  *Test case**                                      |
 |----------------|-------------------------------------------------------|
 | [TC-001]       | Test if the logo redirects the user to the main page  |
 | [TC-002]       | Check if clicking on "Despre ONG" from the menu opens |
@@ -55,4 +55,5 @@ I decided to test it because it's the page of one of my friend and I wanted to h
 | [TC-011]       | Check that the document "Sponsorizare" can be downloaded |
 | [TC-012]       | Check that when clicking on "OPINII PE MARGINEA UNOR SUBIECTE" from the menu properly opens|
 | [TC-013]      | Check that when clicking on "Criza energetica versus cea a metalelor" ("OPINII PE MARGINEA UNOR SUBIECTE" section" from the menu properly redirects the user to the page |
-
+| [TC-014]      | Check that text from "Criza energetica versus cea a metalelor" page ("OPINII PE MARGINEA UNOR SUBIECTE" section" is properly alligned |
+| [TC-015]       | Check that the user can select from the menu: "Exploatarea perimetrelor inchise |
