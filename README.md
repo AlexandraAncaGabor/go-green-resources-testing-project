@@ -135,3 +135,36 @@ All the test cases created are listed below.
 | tc_018        | :heavy_check_mark:   Pass  | tc_038        | :heavy_check_mark:   Pass  | tc_058        | :heavy_check_mark:   Pass  | tc_078        | :heavy_check_mark:   Pass  |               |                            |
 | tc_019        | :heavy_check_mark:   Pass  | tc_039        | :heavy_check_mark:   Pass  | tc_059        | :heavy_check_mark:   Pass  | tc_079        | :heavy_check_mark:   Pass  |               |                            |
 | tc_020        | :x: Fail                   | tc_040        | :heavy_check_mark:   Pass  | tc_060        | :heavy_check_mark:   Pass  | tc_080        | :heavy_check_mark:   Pass  |               |                            |
+
+
+# **Bugs**
+
+14 Bugs were found with the help of the test cases created. All of them are listed below: 
+
+[Bug-001](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_001.md) The text is not properly alligned on "Despre ONG" page
+
+[Bug-002](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_002.md) The menu doesn't expands properly when hovering
+
+[Bug-003](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_003.md) The text is not properly alligned on "Consecinte accident Aurul" page
+
+[Bug-005](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_004.md) The text is not properly alligned on "Invadarea cu arii protejate " page
+
+[Bug-005](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_005.md)  The text is not properly alligned on "Activități" page
+
+[Bug-006](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_006.md) The images from "Activități" are not properly alligned
+
+[Bug-007](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_007.md) The images from "Perimetrul minier Cavnic" are not properly alligned
+
+[Bug-008](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_008.md) The text from "Perimetrul minier Borșa" page is not properly alligned
+
+[Bug-009](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_009.md) The text from "Perimetrul minier Nistru – Băița" page is not properly alligned
+
+[Bug-010](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_010.md) The images from "Tunelul Herja" page are not properly alligned
+
+[Bug-011](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_011.md) The text from "Cariera Răzoare" page is not displayed as all
+
+[Bug-012](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_012.md) The text from "Cariera de Sulf din Călimani" page is missing
+
+[Bug-013](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_013.md) The text from "Proiecte page is not properly alligned
+
+[Bug-014](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_014.md)  The email from "Contacte" is not dispalyed as a link and cannot redirect the user to his email
