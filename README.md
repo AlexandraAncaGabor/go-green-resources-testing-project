@@ -168,3 +168,10 @@ All the test cases created are listed below.
 [Bug-013](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_013.md) The text from "Proiecte page is not properly alligned
 
 [Bug-014](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_014.md)  The email from "Contacte" is not dispalyed as a link and cannot redirect the user to his email
+
+
+# **Conclusions**
+
+- Functional, as well as non functional testing (UI) were tested. 
+- Most of the bugs found were non functional and were regarded the UI. 
+- The distribution of the issues is non uniform. Most of the bugs detected are displayed in the same area. (Activitati section) This leads us to the principle of defect clustering which tells us that the a small number of modules contains most of the bugs . 
