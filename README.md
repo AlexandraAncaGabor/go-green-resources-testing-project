@@ -2,18 +2,18 @@
 
 ![gogreen-resources](https://user-images.githubusercontent.com/110250127/220195628-2fef49b0-a093-4216-bddc-c88fad11d37c.png)
 
-Go green resources is a web page that presents the problems that Maramures county is facing at the moment. It is a non-guvernamental site were the owners of this are describing the environmental issues of Maramures county. Also, the website offers the opportunity to be a sponsor or a volunteer through a contract.
+Go green resources is a web page that presents the problems that Maramures county is facing at the moment. It is a non-guvernamental site were its owners are describing the environmental issues of Maramures county. Also, the website offers its visitors the opportunity to be a sponsor or a volunteer through a contract.
 
 
 
-I decided to test it because it's the page of one of my friend and I wanted to help her find the issues and considered it a practice for me too. Also, I was always concerned about Maramures environmental issues, because there is were I live.
+I decided to test it because it's the page of one of my friend's and I wanted to help her find the issues and considered it a practice for me, too. Also, I was always concerned about Maramures' environmental issues, because this is were I live.
 
 # **Test cases**
 
 The initial plan for this testing was to explore the website and then create the test cases based on this exploratory. The coverage
 All the test cases created are listed below.
 
-| ** TC Number**                                                                                                          | **Test case**                                                                                                                                                            |
+| **TC Number**                                                                                                          | **Test case**                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 🔍 [TC-001](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-001.md) | Test if the logo redirects the user to the main page                                                                                                                     |
 | 🔍 [TC-002](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-002.md) | Check if clicking on "Despre ONG" from the menu opens                                                                                                                    |
@@ -110,48 +110,33 @@ All the test cases created are listed below.
 | 🔍 [TC-093](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-093.md) | Check that the "Proiecte" button from the footer is working properly                                                                                                     |
 | 🔍 [TC-094](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-094.md) | Check that the "Contact" button from the footer is working properly                                                                                                      |
 
+
+
 Test execution
 
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| **Test case** | **Test result** | **Test case** | **Test result** | **Test case** | **Test result** | **Test case** | **Test result** | **Test case** | **Test result** |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_001 | :heavy_check_mark: Pass | tc_021 | :heavy_check_mark: Pass | tc_041 | :heavy_check_mark: Pass | tc_061 | :heavy_check_mark: Pass | tc_081 | :x: Fail |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_002 | :heavy_check_mark: Pass | tc_022 | :heavy_check_mark: Pass | tc_042 | :heavy_check_mark: Pass | tc_062 | :heavy_check_mark: Pass | tc_082 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_003 | :x: Fail | tc_023 | :heavy_check_mark: Pass | tc_043 | :heavy_check_mark: Pass | tc_063 | :heavy_check_mark: Pass | tc_083 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_004 | :heavy_check_mark: Pass | tc_024 | :heavy_check_mark: Pass | tc_044 | :x: Fail | tc_064 | :heavy_check_mark: Pass | tc_084 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_005 | :heavy_check_mark: Pass | tc_025 | :x: Fail | tc_045 | :x: Fail | tc_065 | :heavy_check_mark: Pass | tc_085 | :x: Fail |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_006 | :heavy_check_mark: Pass | tc_026 | :heavy_check_mark: Pass | tc_046 | :heavy_check_mark: Pass | tc_066 | :x: Fail | tc_086 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_007 | :heavy_check_mark: Pass | tc_027 | :heavy_check_mark: Pass | tc_047 | :heavy_check_mark: Pass | tc_067 | :heavy_check_mark: Pass | tc_087 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_008 | :heavy_check_mark: Pass | tc_028 | :heavy_check_mark: Pass | tc_048 | :heavy_check_mark: Pass | tc_068 | :heavy_check_mark: Pass | tc_088 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_009 | :heavy_check_mark: Pass | tc_029 | :heavy_check_mark: Pass | tc_049 | :heavy_check_mark: Pass | tc_069 | :heavy_check_mark: Pass | tc_089 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_010 | :heavy_check_mark: Pass | tc_030 | :heavy_check_mark: Pass | tc_050 | :heavy_check_mark: Pass | tc_070 | :heavy_check_mark: Pass | tc_090 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_011 | :heavy_check_mark: Pass | tc_031 | :heavy_check_mark: Pass | tc_051 | :x: Fail | tc_071 | :x: Fail | tc_091 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_012 | :heavy_check_mark: Pass | tc_032 | :heavy_check_mark: Pass | tc_052 | :heavy_check_mark: Pass | tc_072 | :heavy_check_mark: Pass | tc_092 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_013 | :heavy_check_mark: Pass | tc_033 | :heavy_check_mark: Pass | tc_053 | :x: Fail | tc_073 | :heavy_check_mark: Pass | tc_093 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_014 | :heavy_check_mark: Pass | tc_034 | :heavy_check_mark: Pass | tc_054 | :heavy_check_mark: Pass | tc_074 | :heavy_check_mark: Pass | tc_094 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_015 | :heavy_check_mark: Pass | tc_035 | :heavy_check_mark: Pass | tc_055 | :heavy_check_mark: Pass | tc_075 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+-------------------------------------------------------------------------+
-| tc_016 | :heavy_check_mark: Pass | tc_036 | :heavy_check_mark: Pass | tc_056 | :x: Fail | tc_076 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_017 | :heavy_check_mark: Pass | tc_037 | :heavy_check_mark: Pass | tc_057 | :heavy_check_mark: Pass | tc_077 | :x: Fail | | |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+
-| tc_018 | :heavy_check_mark: Pass | tc_038 | :heavy_check_mark: Pass | tc_058 | :heavy_check_mark: Pass | tc_078 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+-------------------------------------------------------------------------+
-| tc_019 | :heavy_check_mark: Pass | tc_039 | :heavy_check_mark: Pass | tc_059 | :heavy_check_mark: Pass | tc_079 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+-------------------------------------------------------------------------+
-| tc_020 | :x: Fail | tc_040 | :heavy_check_mark: Pass | tc_060 | :heavy_check_mark: Pass | tc_080 | :heavy_check_mark: Pass |
-+---------------+----------------------------+---------------+----------------------------+---------------+----------------------------+---------------+-------------------------------------------------------------------------+
+\begin{table}[]
+\begin{tabular}{|l|l|l|l|l|l|l|lll|}
+\hline
+**Test case** & **Test result**             & \textbf{**Test case**} & \textbf{**Test result**}    & \textbf{**Test case**} & \textbf{**Test result**}    & \textbf{**Test case**} & \multicolumn{1}{l|}{\textbf{**Test result**}}    & \multicolumn{1}{l|}{\textbf{**Test case**}} & \textbf{**Test result**}    \\ \hline
+tc\_001       & :heavy\_check\_mark:   Pass & tc\_021                & :heavy\_check\_mark:   Pass & tc\_041                & :heavy\_check\_mark:   Pass & tc\_061                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_081}                & :x: Fail                    \\ \hline
+tc\_002       & :heavy\_check\_mark:   Pass & tc\_022                & :heavy\_check\_mark:   Pass & tc\_042                & :heavy\_check\_mark:   Pass & tc\_062                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_082}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_003       & :x: Fail                    & tc\_023                & :heavy\_check\_mark:   Pass & tc\_043                & :heavy\_check\_mark:   Pass & tc\_063                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_083}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_004       & :heavy\_check\_mark:   Pass & tc\_024                & :heavy\_check\_mark:   Pass & tc\_044                & :x: Fail                    & tc\_064                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_084}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_005       & :heavy\_check\_mark:   Pass & tc\_025                & :x: Fail                    & tc\_045                & :x: Fail                    & tc\_065                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_085}                & :x: Fail                    \\ \hline
+tc\_006       & :heavy\_check\_mark:   Pass & tc\_026                & :heavy\_check\_mark:   Pass & tc\_046                & :heavy\_check\_mark:   Pass & tc\_066                & \multicolumn{1}{l|}{:x: Fail}                    & \multicolumn{1}{l|}{tc\_086}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_007       & :heavy\_check\_mark:   Pass & tc\_027                & :heavy\_check\_mark:   Pass & tc\_047                & :heavy\_check\_mark:   Pass & tc\_067                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_087}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_008       & :heavy\_check\_mark:   Pass & tc\_028                & :heavy\_check\_mark:   Pass & tc\_048                & :heavy\_check\_mark:   Pass & tc\_068                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_088}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_009       & :heavy\_check\_mark:   Pass & tc\_029                & :heavy\_check\_mark:   Pass & tc\_049                & :heavy\_check\_mark:   Pass & tc\_069                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_089}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_010       & :heavy\_check\_mark:   Pass & tc\_030                & :heavy\_check\_mark:   Pass & tc\_050                & :heavy\_check\_mark:   Pass & tc\_070                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_090}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_011       & :heavy\_check\_mark:   Pass & tc\_031                & :heavy\_check\_mark:   Pass & tc\_051                & :x: Fail                    & tc\_071                & \multicolumn{1}{l|}{:x: Fail}                    & \multicolumn{1}{l|}{tc\_091}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_012       & :heavy\_check\_mark:   Pass & tc\_032                & :heavy\_check\_mark:   Pass & tc\_052                & :heavy\_check\_mark:   Pass & tc\_072                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_092}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_013       & :heavy\_check\_mark:   Pass & tc\_033                & :heavy\_check\_mark:   Pass & tc\_053                & :x: Fail                    & tc\_073                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_093}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_014       & :heavy\_check\_mark:   Pass & tc\_034                & :heavy\_check\_mark:   Pass & tc\_054                & :heavy\_check\_mark:   Pass & tc\_074                & \multicolumn{1}{l|}{:heavy\_check\_mark:   Pass} & \multicolumn{1}{l|}{tc\_094}                & :heavy\_check\_mark:   Pass \\ \hline
+tc\_015       & :heavy\_check\_mark:   Pass & tc\_035                & :heavy\_check\_mark:   Pass & tc\_055                & :heavy\_check\_mark:   Pass & tc\_075                & \multicolumn{3}{l|}{:heavy\_check\_mark:   Pass}                                                                             \\ \hline
+tc\_016       & :heavy\_check\_mark:   Pass & tc\_036                & :heavy\_check\_mark:   Pass & tc\_056                & :x: Fail                    & tc\_076                & \multicolumn{3}{l|}{:heavy\_check\_mark:   Pass}                                                                             \\ \hline
+tc\_017       & :heavy\_check\_mark:   Pass & tc\_037                & :heavy\_check\_mark:   Pass & tc\_057                & :heavy\_check\_mark:   Pass & tc\_077                & \multicolumn{1}{l|}{:x: Fail}                    & \multicolumn{1}{l|}{}                       &                             \\ \hline
+tc\_018       & :heavy\_check\_mark:   Pass & tc\_038                & :heavy\_check\_mark:   Pass & tc\_058                & :heavy\_check\_mark:   Pass & tc\_078                & \multicolumn{3}{l|}{:heavy\_check\_mark:   Pass}                                                                             \\ \hline
+tc\_019       & :heavy\_check\_mark:   Pass & tc\_039                & :heavy\_check\_mark:   Pass & tc\_059                & :heavy\_check\_mark:   Pass & tc\_079                & \multicolumn{3}{l|}{:heavy\_check\_mark:   Pass}                                                                             \\ \hline
+tc\_020       & :x: Fail                    & tc\_040                & :heavy\_check\_mark:   Pass & tc\_060                & :heavy\_check\_mark:   Pass & tc\_080                & \multicolumn{3}{l|}{:heavy\_check\_mark:   Pass}                                                                             \\ \hline
+\end{tabular}
+\end{table}
