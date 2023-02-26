@@ -111,6 +111,8 @@ All the test cases created are listed below.
 | 🔍 [TC-094](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-094.md) | Check that the "Contact" button from the footer is working properly                                                                                                      |
 
 
+# **Test results**
+
 | **Test case** | **Test result**            | **Test case** | **Test result**            | **Test case** | **Test result**            | **Test case** | **Test result**            | **Test case** | **Test result**            |
 |---------------|----------------------------|---------------|----------------------------|---------------|----------------------------|---------------|----------------------------|---------------|----------------------------|
 | tc_001        | :heavy_check_mark:   Pass  | tc_021        | :heavy_check_mark:   Pass  | tc_041        | :heavy_check_mark:   Pass  | tc_061        | :heavy_check_mark:   Pass  | tc_081        | :x: Fail                   |
