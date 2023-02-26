@@ -1,0 +1,22 @@
+# **[Bug-002] The text is not properly alligned on "Consecinte accident Aurul" page**
+
+### **Discovered on:**
+
+tc_020
+
+### **Environment:**
+
+Windows 10
+
+### **Description:**
+
+The text from "Consecinte accident Aurul" page is not alligned properly.
+
+### **Steps to reproduce:**
+
+1.  Open the web page;
+2.  Check the alignment from "Consecinte accident Aurul" page.
+
+### **Actual results:**
+
+The text is not alligned properly on "Consecinte accident Aurul" page

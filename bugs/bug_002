@@ -1,0 +1,22 @@
+# **[Bug-001] The menu doesn't expands properly when hovering**
+
+### **Discovered on:**
+
+tc_006
+
+### **Environment:**
+
+Windows 10
+
+### **Description:**
+
+The subject from the menu are not shown properly, except from "Structura ONG" section
+
+### **Steps to reproduce:**
+
+1. Open the web page;
+2. Hover over the menu.
+
+### **Actual results:**
+
+The menu doesn't expand and the subject are not displayed. Only "Structura ONG" expands.

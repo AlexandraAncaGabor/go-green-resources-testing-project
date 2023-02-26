@@ -1,0 +1,23 @@
+# **[Bug-003] The text is not properly alligned on "Invadarea cu arii protejate " page**
+
+### **Discovered on:**
+
+tc_026
+
+### **Environment:**
+
+Windows 10
+
+### **Description:**
+
+The text from "Invadarea cu arii protejate " page is not alligned properly.
+
+### **Steps to reproduce:**
+
+1.  Open the web page;
+2.  Go to the menu and select "OPINII PE MARGINEA UNOR SUBIECTE"
+3.  Click on "Invadarea cu arii protejate and check the alignment from "Invadarea cu arii protejate " page.
+
+### **Actual results:**
+
+The text is not alligned properly on "Invadarea cu arii protejate" page

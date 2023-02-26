@@ -1,0 +1,22 @@
+# **[Bug-001] The text is not properly alligned on "Despre ONG" page**
+
+### **Discovered on:**
+
+tc_003
+
+### **Environment:**
+
+Windows 10
+
+### **Description:**
+
+The text from "Despre ONG" page is not alligned properly.
+
+### **Steps to reproduce:**
+
+1. Open the web page;
+2. Check the alignment from "Despre ONG" page
+
+### **Actual results:**
+
+The text is not alligned properly on "Despre ONG" page
