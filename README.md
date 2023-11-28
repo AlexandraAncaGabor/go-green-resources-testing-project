@@ -145,7 +145,7 @@ The testing approach began with an in-depth exploration of the website, informin
 
 [Bug-003](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_003.md) The text is not properly alligned on "Consecinte accident Aurul" page
 
-[Bug-005](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_004.md) The text is not properly alligned on "Invadarea cu arii protejate " page
+[Bug-004](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_004.md) The text is not properly alligned on "Invadarea cu arii protejate " page
 
 [Bug-005](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_005.md)  The text is not properly alligned on "Activități" page
 
