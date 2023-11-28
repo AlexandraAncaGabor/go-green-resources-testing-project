@@ -2,23 +2,21 @@
 
 ![gogreen-resources](https://user-images.githubusercontent.com/110250127/220195628-2fef49b0-a093-4216-bddc-c88fad11d37c.png)
 
-Go green resources is a web page that presents the problems that Maramures county is facing at the moment. It is a non-guvernamental site were its owners are describing the environmental issues of Maramures county. Also, the website offers its visitors the opportunity to be a sponsor or a volunteer through a contract.
+"Go Green Resources" is a website dedicated to highlighting the current environmental challenges faced by Maramures County. As a non-governmental platform, the site's owners meticulously describe the environmental issues impacting the region. The website not only serves as an informative resource but also provides visitors with the chance to contribute as sponsors or volunteers through a contractual arrangement.
 
-
-
-I decided to test it because it's the page of one of my friend's and I wanted to help her find the issues and considered it a practice for me, too. Also, I was always concerned about Maramures' environmental issues, because this is were I live.
+My decision to test this website was motivated by my connection to its owner, a friend of mine. I saw it as an opportunity to assist her in identifying and addressing any issues on the site, considering it a valuable learning practice for myself as well. Moreover, my personal concern for Maramures' environmental challenges, rooted in my residency in the area, fueled my commitment to contribute to the improvement of the website.
 
 # **Test cases**
 
-The initial plan for this testing was to explore the website and then create the test cases based on this exploratory. The coverage
-All the test cases created are listed below.
+
+The testing approach began with an in-depth exploration of the website, informing the subsequent creation of test cases. The objective was to achieve comprehensive coverage of the website's functionality. Here is the detailed list of all the test cases developed based on this exploratory phase.
 
 | **TC Number**                                                                                                          | **Test case**                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 🔍 [TC-001](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-001.md) | Test if the logo redirects the user to the main page                                                                                                                     |
 | 🔍 [TC-002](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-002.md) | Check if clicking on "Despre ONG" from the menu opens                                                                                                                    |
 | 🔍 [TC-003](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-003.md) | Check if the text is properly alligned on "Despre ONG" page                                                                                                              |
-| 🔍 [TC-004](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-004.md) | Check if the image from "Despre ONG" is properly alligned                                                                                                                |
+| 🔍 [TC-004](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-004.md) | Check if the image from "Despre ONG" is properly aligned                                                                                                                |
 | 🔍 [TC-005](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-005.md) | Check the functionality of "Hai sa vorbim" link ("Despre ONG" page)                                                                                                      |
 | 🔍 [TC-006](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-006.md) | Check that the menu properly expands when hovering                                                                                                                       |
 | 🔍 [TC-007](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-007.md) | Check the functionality of "Structura ONG" button ("Despre ONG" section)                                                                                                 |
@@ -172,6 +170,8 @@ All the test cases created are listed below.
 
 # **Conclusions**
 
-- Functional, as well as non functional testing (UI) were tested. 
-- Most of the bugs found were non functional and were regarded the UI. 
-- The distribution of the issues is non uniform. Most of the bugs detected are displayed in the same area. (Activitati section) This leads us to the principle of defect clustering which tells us that the a small number of modules contains most of the bugs . 
+- Both functional and non-functional testing, particularly focusing on UI aspects, were conducted;
+  
+- The majority of identified bugs pertained to non-functional aspects, with a specific emphasis on UI-related issues;
+  
+- Notably, there is a non-uniform distribution of issues, with a concentration of bugs in the same area, specifically the "Activitati" section. This observation aligns with the principle of defect clustering, suggesting that a limited number of modules bear the brunt of most bugs.
