@@ -175,3 +175,6 @@ The testing approach began with an in-depth exploration of the website, informin
 - The majority of identified bugs pertained to non-functional aspects, with a specific emphasis on UI-related issues;
   
 - Notably, there is a non-uniform distribution of issues, with a concentration of bugs in the same area, specifically the "Activitati" section. This observation aligns with the principle of defect clustering, suggesting that a limited number of modules bear the brunt of most bugs.
+
+
+_✨ Guided by curiosity, committed to quality._
