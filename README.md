@@ -2,9 +2,13 @@
 
 ![gogreen-resources](https://user-images.githubusercontent.com/110250127/220195628-2fef49b0-a093-4216-bddc-c88fad11d37c.png)
 
+https://gogreenresources.ro/
+
 "Go Green Resources" is a website dedicated to highlighting the current environmental challenges faced by Maramures County. As a non-governmental platform, the site's owners meticulously describe the environmental issues impacting the region. The website not only serves as an informative resource but also provides visitors with the chance to contribute as sponsors or volunteers through a contractual arrangement.
 
 My decision to test this website was motivated by my connection to its owner, a friend of mine. I saw it as an opportunity to assist her in identifying and addressing any issues on the site, considering it a valuable learning practice for myself as well. Moreover, my personal concern for Maramures' environmental challenges, rooted in my residency in the area, fueled my commitment to contribute to the improvement of the website.
+
+The testing was conducted in 2023, based on the website version available at that time. The current version of the website may differ, and some elements or functionalities might have changed.
 
 # **Test cases**
 
