@@ -8,8 +8,6 @@ https://gogreenresources.ro/
 
 My decision to test this website was motivated by my connection to its owner, a friend of mine. I saw it as an opportunity to assist her in identifying and addressing any issues on the site, considering it a valuable learning practice for myself as well. Moreover, my personal concern for Maramures' environmental challenges, rooted in my residency in the area, fueled my commitment to contribute to the improvement of the website.
 
-The testing was conducted in 2023, based on the website version available at that time. The current version of the website may differ, and some elements or functionalities might have changed.
-
 # **Test cases**
 
 
@@ -179,6 +177,9 @@ The testing approach began with an in-depth exploration of the website, informin
 - Reported and documented identified UI issues and inconsistencies.
   
 - Issues are concentrated in the "Activitati" section, consistent with the principle of "Defect clustering", indicating that a few modules account for most defects.
+
+**Note: The tests were originally created at the beginning of my QA experience (2022) and were not always written in the most precise format, so I reviewed and rewrote the test cases in 2025.*
+*No regression tests have been performed since, and the current version of the website may differ, so some elements or functionalities might have changed. These tests may only apply to the version available at the time of testing.*
 
 
 _✨ Guided by curiosity, committed to quality._
