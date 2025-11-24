@@ -174,7 +174,7 @@ The testing approach began with an in-depth exploration of the website, informin
 
 - Reported and documented identified UI issues and inconsistencies.
   
-- Issues are concentrated in the ‘Activitati’ section, consistent with the principle of defect clustering, indicating that a few modules account for most defects.
+- Issues are concentrated in the "Activitati" section, consistent with the principle of "Defect clustering", indicating that a few modules account for most defects.
 
 
 _✨ Guided by curiosity, committed to quality._
