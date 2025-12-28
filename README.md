@@ -19,8 +19,8 @@ All testing aimed to ensure both functionality and user experience were properly
 
 ## 🧰 Tools Used
 
-• 📊 **Excel** – for test case documentation
-• 🐙 **GitHub** – for version control and repository management
+- 📊 **Excel** – for test case documentation
+- 🐙 **GitHub** – for version control and repository management
 
 ## Test cases
 
