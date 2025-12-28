@@ -1,17 +1,39 @@
-# go-green-resources-testing-project
+## Go-green-resources-testing-project
 
 ![gogreen-resources](https://user-images.githubusercontent.com/110250127/220195628-2fef49b0-a093-4216-bddc-c88fad11d37c.png)
 
 https://gogreenresources.ro/
 
-"Go Green Resources" is a website dedicated to highlighting the current environmental challenges faced by Maramures County. As a non-governmental platform, the site's owners meticulously describe the environmental issues impacting the region. The website not only serves as an informative resource but also provides visitors with the chance to contribute as sponsors or volunteers through a contractual arrangement.
+"Go Green Resources" is a non-governmental website focused on raising awareness about environmental challenges in Maramureș County. It provides detailed insights into the region's ecological issues and offers visitors the opportunity to contribute as sponsors or volunteers through formal agreements.
 
-My decision to test this website was motivated by my connection to its owner, a friend of mine. I saw it as an opportunity to assist her in identifying and addressing any issues on the site, considering it a valuable learning practice for myself as well. Moreover, my personal concern for Maramures' environmental challenges, rooted in my residency in the area, fueled my commitment to contribute to the improvement of the website.
+I chose to test this website due to my personal connection with its owner, a friend, and saw it as a chance to help identify and resolve potential issues while gaining practical experience. Additionally, my commitment to Maramureș’ environmental well-being, as a local resident, motivated me to contribute to enhancing the site.
 
-# **Test cases**
+## 🧪 Types of Testing Included
+
+• 📝 **Manual Testing** – Step-by-step execution of test cases to verify the core functionality of the application.  
+• 🔍 **Exploratory Testing** – Ad-hoc testing to discover unexpected behavior and edge cases by exploring the app without predefined test cases.  
+• ✔ **Positive Test Scenarios** – Tests that validate the application works as expected when given valid inputs and normal conditions.  
+• 📐 **UI / Layout Verification** – Checks the visual aspects of the application (buttons, forms, menus) to ensure proper alignment, design consistency, and usability.
+
+All testing aimed to ensure both functionality and user experience were properly covered.
+
+## 🧰 Tools Used
+• 📊 Excel – for test case documentation
+• 🐙 GitHub – for version control and repository management
+
+## Test cases
 
 
 The testing approach began with an in-depth exploration of the website, informing the subsequent creation of test cases. The objective was to achieve comprehensive coverage of the website's functionality. Here is the detailed list of all the test cases developed based on this exploratory phase.
+
+
+Detailed test cases are documented in [test-cases.md](test-cases.md)
+
+They cover:
+- Main pages and navigation;
+- Mining and environmental project pages;
+- Footer links and contact form;
+- UI alignment and content verification. 
 
 | **TC Number**                                                                                                          | **Test case**                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -111,7 +133,13 @@ The testing approach began with an in-depth exploration of the website, informin
 | 🔍 [TC-094](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-094.md) | Check "Contact" footer button functionality|
 
 
-# **Test results**
+## ✅ Test Results Summary
+
+- Total test cases executed: 94
+- Passed: 80
+- Failed: 14
+
+Main issues identified: UI alignment inconsistencies, menu behavior, broken links, and email functionality.
 
 | **Test case** | **Test result**            | **Test case** | **Test result**            | **Test case** | **Test result**            | **Test case** | **Test result**            | **Test case** | **Test result**            |
 |---------------|----------------------------|---------------|----------------------------|---------------|----------------------------|---------------|----------------------------|---------------|----------------------------|
@@ -137,9 +165,15 @@ The testing approach began with an in-depth exploration of the website, informin
 | tc_020        | :x: Fail                   | tc_040        | :heavy_check_mark:   Pass  | tc_060        | :heavy_check_mark:   Pass  | tc_080        | :heavy_check_mark:   Pass  |               |                            |
 
 
-# **Bugs**
+## 🐞 Bug Reports
 
-14 Bugs were found with the help of the test cases created. All of them are listed below: 
+- A total of 14 bugs were found. Examples include:
+- Misaligned text on multiple pages (Despre ONG, Activități, Perimetrul minier Borșa)
+- Images not properly aligned (Activități, Tunelul Herja)
+- Menu hover not expanding correctly
+- Email link on Contact page not clickable
+
+Full list of bugs with details: 
 
 [Bug-001](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_001.md) The text is not properly alligned on "Despre ONG" page
 
@@ -170,16 +204,14 @@ The testing approach began with an in-depth exploration of the website, informin
 [Bug-014](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/bugs/bug_014.md)  The email from "Contacte" is not dispalyed as a link and cannot redirect the user to his email
 
 
-# **Conclusions**
+## 🏁 Conclusions
 
 - Performed functional UI testing, including page accessibility, navigation, and UI element verification;
+- Reported and documented identified UI issues and inconsistencies; 
+- Learned to apply exploratory and manual testing techniques effectively;
+- Contributed to improving a website with real-world impact, while building a professional QA portfolio.
 
-- Reported and documented identified UI issues and inconsistencies.
-  
-- Issues are concentrated in the "Activitati" section, consistent with the principle of "Defect clustering", indicating that a few modules account for most defects.
-
-**Note: The tests were originally created at the beginning of my QA experience (2022) and were not always written in the most precise format, so I reviewed and rewrote the test cases in 2025.*
-*No regression tests have been performed since, and the current version of the website may differ, so some elements or functionalities might have changed. These tests may only apply to the version available at the time of testing.*
+* Note: Tests were originally created in 2022 during the early stages of my QA experience and were reviewed and refined in 2025. Some elements may have changed since then
 
 
 _✨ Guided by curiosity, committed to quality._
