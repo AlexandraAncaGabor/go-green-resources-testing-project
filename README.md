@@ -18,8 +18,9 @@ I chose to test this website due to my personal connection with its owner, a fri
 All testing aimed to ensure both functionality and user experience were properly covered.
 
 ## 🧰 Tools Used
-• 📊 Excel – for test case documentation
-• 🐙 GitHub – for version control and repository management
+
+• 📊 **Excel** – for test case documentation
+• 🐙 **GitHub** – for version control and repository management
 
 ## Test cases
 
