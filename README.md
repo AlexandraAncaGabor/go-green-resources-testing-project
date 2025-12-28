@@ -1,5 +1,7 @@
 ## Go-green-resources-testing-project
 
+## 📌 Project Context
+
 ![gogreen-resources](https://user-images.githubusercontent.com/110250127/220195628-2fef49b0-a093-4216-bddc-c88fad11d37c.png)
 
 https://gogreenresources.ro/
@@ -19,14 +21,14 @@ All testing aimed to ensure both functionality and user experience were properly
 
 ## 🧰 Tools Used
 
-- 📊 **Excel** – for test case documentation
+- 📊 **Excel** – for test case documentation;
 - 🐙 **GitHub** – for version control and repository management
 
+## 🧠 Testing Approach
+
+The testing approach started with a thorough exploration of the website, which guided the creation of detailed test cases. The goal was to ensure comprehensive coverage of all site functionalities.
+
 ## Test cases
-
-
-The testing approach began with an in-depth exploration of the website, informing the subsequent creation of test cases. The objective was to achieve comprehensive coverage of the website's functionality. Here is the detailed list of all the test cases developed based on this exploratory phase.
-
 
 Detailed test cases are documented in [test-cases.md](test-cases.md)
 
@@ -36,6 +38,8 @@ They cover:
 - Footer links and contact form;
 - UI alignment and content verification. 
 
+
+Below is the complete list of test cases developed from this exploratory phase.
 | **TC Number**                                                                                                          | **Test case**                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 🔍 [TC-001](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project/blob/main/test-cases.md/tc-001.md) | Verify logo redirects to main page  |
@@ -168,7 +172,7 @@ Main issues identified: UI alignment inconsistencies, menu behavior, broken link
 
 ## 🐞 Bug Reports
 
-- A total of 14 bugs were found. Examples include:
+A total of 14 bugs were found. Examples include:
 - Misaligned text on multiple pages (Despre ONG, Activități, Perimetrul minier Borșa)
 - Images not properly aligned (Activități, Tunelul Herja)
 - Menu hover not expanding correctly
